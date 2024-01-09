@@ -1,0 +1,5 @@
+﻿  STL案例-员工分组.cpp
+E:\c++ programe\Project30\Project30\STL案例-员工分组.cpp(50,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++ programe\Project30\Project30\STL案例-员工分组.cpp(59,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++ programe\Project30\Project30\STL案例-员工分组.cpp(68,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Project30.vcxproj -> E:\c++ programe\Project30\x64\Debug\Project30.exe

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基于STL的演讲比赛流程管理系统", "基于STL的演讲比赛流程管理系统\基于STL的演讲比赛流程管理系统.vcxproj", "{08BADFDF-74FD-4574-B018-91AB5C331B41}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "基于STL的演讲比赛流程管理系统", "..\..\演讲比赛\基于STL的演讲比赛流程管理系统\基于STL的演讲比赛流程管理系统.vdproj", "{BD66D464-7612-40C0-B8DB-91ED76DAA66E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Debug|x64.ActiveCfg = Debug|x64
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Debug|x64.Build.0 = Debug|x64
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Debug|x86.ActiveCfg = Debug|Win32
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Debug|x86.Build.0 = Debug|Win32
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Release|x64.ActiveCfg = Release|x64
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Release|x64.Build.0 = Release|x64
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Release|x86.ActiveCfg = Release|Win32
+		{08BADFDF-74FD-4574-B018-91AB5C331B41}.Release|x86.Build.0 = Release|Win32
+		{BD66D464-7612-40C0-B8DB-91ED76DAA66E}.Debug|x64.ActiveCfg = Debug
+		{BD66D464-7612-40C0-B8DB-91ED76DAA66E}.Debug|x86.ActiveCfg = Debug
+		{BD66D464-7612-40C0-B8DB-91ED76DAA66E}.Release|x64.ActiveCfg = Release
+		{BD66D464-7612-40C0-B8DB-91ED76DAA66E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {546A591A-A4A6-4DF4-AE5F-7B0CCD3F0756}
+	EndGlobalSection
+EndGlobal
